@@ -1,6 +1,6 @@
           body {
             background-color: var(--cor-de-fundo);
-            color: var(--branco-principal);
+            color: var(--caramelo-principal);
             font-family: var(--fonte-principal);
             font-size: 16px;
             font-weight: 400;
@@ -37,7 +37,7 @@
             
             .botao_secundario {
             background-color: transparent;
-            border: 2px solid var(--branco-principal)
+            border: 2px solid var(--caramelo-principal)
             }
             
             .container__aviso {
